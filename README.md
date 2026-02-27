@@ -9,6 +9,7 @@ As a Brian May said: So still the cloud it hangs, Over us and we're alone, But s
 
 ### RFCs Read
 
+- The OAuth 2.1 Authorization Framework | draft-ietf-oauth-v2-1-14
 - RFC 7519 — JSON Web Token (JWT)
 - RFC 7518 — JSON Web Algorithms (JWA)
 - RFC 7515 — JSON Web Signature (JWS)
