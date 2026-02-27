@@ -1,4 +1,9 @@
-## Hi there 👋
+## IAM Architect
+
+Building something that doesn't exist yet.
+
+Every tenant node as a sovereign OIDC Provider.
+Federation between nodes as a consequence of the architecture — not a feature.
 
 <!--
 **Kajlongero/Kajlongero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
