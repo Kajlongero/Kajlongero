@@ -26,9 +26,10 @@ As a Brian May said: So still the cloud it hangs, Over us and we're alone, But s
 - RFC 7636 — Proof Key for Code Exchange (PKCE)
 - RFC 9101 — JWT-Secured Authorization Requests (JAR)
 - RFC 9126 — Pushed Authorization Requests (PAR)
-- RFC 9449 — OAuth 2.0 Demonstrating Proof of Possession (DPoP) — in progress
+- RFC 9449 — OAuth 2.0 Demonstrating Proof of Possession (DPoP)
 - draft-skokan-oauth-additional-hashes-04
 - FAPI 2.0 JARM — JWT Secured Authorization Response Mode
+- RFC 8707 - Resource Indicators for OAuth 2.0 - In progress
 
 <!--
 **Kajlongero/Kajlongero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
