@@ -30,6 +30,7 @@ As a Brian May said: So still the cloud it hangs, Over us and we're alone, But s
 - draft-skokan-oauth-additional-hashes-04
 - FAPI 2.0 JARM — JWT Secured Authorization Response Mode
 - RFC 8707 - Resource Indicators for OAuth 2.0 - In progress
+- RFC 9110 - HTTP Semantics - In progress
 
 <!--
 **Kajlongero/Kajlongero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
