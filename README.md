@@ -1,9 +1,4 @@
-## Identity Systems Architect
-
-Building something that doesn't exist yet.
-
-Every tenant node as a sovereign OIDC Provider.
-Federation between nodes as a consequence of the architecture — not a feature.
+## Identity, OAuth2.0 and Security of the Software
 
 As a Brian May said: So still the cloud it hangs, Over us and we're alone, But someday, one day
 
@@ -31,7 +26,8 @@ As a Brian May said: So still the cloud it hangs, Over us and we're alone, But s
 - FAPI 2.0 JARM — JWT Secured Authorization Response Mode
 - RFC 8707 - Resource Indicators for OAuth 2.0 - In progress
 - RFC 9110 - HTTP Semantics
-- RFC 9111 - HTTP Caching - In progress
+- RFC 9111 - HTTP Caching
+- RFC 9112 - HTTP 1.1 - In progress
 
 <!--
 **Kajlongero/Kajlongero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
